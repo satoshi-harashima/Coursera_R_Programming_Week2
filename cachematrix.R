@@ -35,7 +35,6 @@ cacheSolve <- function(x, ...) {
     m                                       # Return the freshly calculated inverse matrix. 
 }
 
-
 # TEST RUNNING ------------------------------------------------------------
 
 Test <- makeCacheMatrix()                       # Test is the list of functions.
